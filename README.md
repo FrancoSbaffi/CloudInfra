@@ -19,7 +19,6 @@ Este proyecto implementa un proxy reverso con **NGINX** que redirige el tráfico
    git clone -b proxy-reverso https://github.com/tu_usuario/Proyecto-Final-IT-Infrastructure.git
    cd Proyecto-Final-IT-Infrastructure
 
-
 ## Pasos para Ejecutar
 
 1. Construye y ejecuta el proyecto:
